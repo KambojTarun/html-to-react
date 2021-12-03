@@ -5,3 +5,9 @@ ordered list
 unordered list
 align tag
 revisiom
+audio tag
+video tag
+navigation tag
+figure
+article
+aside
