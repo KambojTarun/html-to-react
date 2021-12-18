@@ -1,0 +1,127 @@
+
+*{
+	margin: 0;
+}
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Corinthia&display=swap');
+</style>
+
+
+nav{
+	position: relative;
+	background-color: blue;
+	height: 140px;
+	position: sticky;
+}
+
+}
+
+	
+
+.bar{
+position: absolute;
+right: 100px;
+
+
+}
+
+.pic{
+	position: absolute;
+	left: 40px;
+	top: 25px;
+
+	
+
+
+
+}
+ul>li{
+	
+font-family: 'Corinthia', cursive;
+	position: relative;
+	display: inline-block;
+	width: 150px;
+	height: 50px;
+	border: solid;
+	text-align: center;
+	line-height: 50px;
+	margin-top: 40px;
+	background-color: transparent;
+	left: 510px;
+	font-size: 25px;
+
+	border: solid white;
+	border-radius: 25px;
+	color: white;
+	
+
+}
+
+
+body{
+	background-image: url(file:///C:/Users/Vikki/Desktop/html%20to%20react/img/photo-1605296867304-46d5465a13f1.jpg);
+	background-size: 100%;
+	
+
+}
+H1{
+	font-family: 'Corinthia', cursive;
+	position: relative;
+	position: absolute;
+	left: 200px;
+	top: 50px;
+background-color: black;
+color: white;
+width: 300px;
+text-align: center;
+height: 50px;
+line-height: 2;
+border-radius: 20px;
+
+
+}
+h2{
+	font-family: 'Corinthia', cursive;
+	color: gray;
+	margin-top: 180px;
+	margin-left: 80px;
+	font-size: 35px;
+}
+p{
+	font-family: 'Corinthia', cursive;
+	color: white;
+	font-size: 20px;
+	margin-left: 80px;
+}
+.btn{
+	font-family: 'Corinthia', cursive;
+	font-size: 20px;
+	margin-left: 80px;
+	background-color: gray;
+	border: solid;
+	border-radius: 15px;
+}
+/*aboutus page*/
+
+.h1{
+	background-color: transparent;
+	font-size: 30px;
+	line-height: 1;
+}
+
+
+.aboutusbackground{
+	background-image: url(file:///C:/Users/Vikki/Desktop/html%20to%20react/img/photo-1583248839364-bd7430a3cd83.jpg);
+}
+
+h2{
+	text-align: justify-all;
+	color: black;
+}
+
+.para{
+	text-align: justify;
+	color: black;
+	margin-right: 750px;
+}
+
